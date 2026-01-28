@@ -168,4 +168,6 @@ Makine öğrenmesine yeni başlayanlar ve sınıflandırma algoritmalarını kar
 
 ---
 
-⭐ Repo beğenildiyseniz yıldız bırakmayı unutmayın!
+Projeyi beğendiyseniz yıldız vermeyi unutmayın!
+
+
